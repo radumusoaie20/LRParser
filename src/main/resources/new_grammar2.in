@@ -1,0 +1,5 @@
+E T
+( ) id +
+E : T | (E)
+T : id | +T | T+id
+E
